@@ -1,3 +1,4 @@
 ### Hola!! 👋
 #### Mi nombre es Karen Calisaya, bienvenidos a mi Github!! 
-<img src="https://visitor-badge.glitch.me/badge?page_id=karen-calisaya.karen-calisaya&left_color=black&right_color=black">
+<center><a href="https://websmultimedia.com/contador-de-visitas-gratis" title="Contador De Visitas Gratis">
+<img style="border: 0px solid; display: inline;" alt="contador de visitas" src="https://websmultimedia.com/contador-de-visitas.php?id=4761"></a></center>
